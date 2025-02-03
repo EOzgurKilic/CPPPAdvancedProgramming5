@@ -6,5 +6,25 @@ class Program
     {
         //Implicit&Explicit Conversion Overloading
         //In short, apart from utilizing from polymorphism or explicit&implicit conversions; there is no way to assign a variable to a different type reference point.
+        
+    }
+}
+
+class A
+{
+    public int ANo  { get; set; }
+
+    public static implicit operator A(B b)
+    {
+        return new() {ANo = b.BNo};
+    }
+}
+
+class B
+{
+    public int BNo  { get; set; }
+    public static explicit operator B(A a)
+    {
+        return new() {BNo = a.ANo};
     }
 }
