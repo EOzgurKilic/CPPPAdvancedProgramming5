@@ -1,0 +1,15 @@
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/bin/Debug/net8.0/CPPPAdvancedProgramming5
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/bin/Debug/net8.0/CPPPAdvancedProgramming5.deps.json
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/bin/Debug/net8.0/CPPPAdvancedProgramming5.runtimeconfig.json
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/bin/Debug/net8.0/CPPPAdvancedProgramming5.dll
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/bin/Debug/net8.0/CPPPAdvancedProgramming5.pdb
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.GeneratedMSBuildEditorConfig.editorconfig
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.AssemblyInfoInputs.cache
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.AssemblyInfo.cs
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.csproj.CoreCompileInputs.cache
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.sourcelink.json
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.dll
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/refint/CPPPAdvancedProgramming5.dll
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.pdb
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/CPPPAdvancedProgramming5.genruntimeconfig.cache
+/Users/orkhanrahimli/RiderProjects/CPPPAdvancedProgramming5/obj/Debug/net8.0/ref/CPPPAdvancedProgramming5.dll
