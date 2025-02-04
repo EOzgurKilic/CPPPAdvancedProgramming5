@@ -14,6 +14,10 @@ class Program
         objB2 = (B)objA2;
         Console.WriteLine(objA1.ANo);
         Console.WriteLine(objB2.BNo);*/
+
+        /*A objA3 = new B() {BNo = 5};
+        B objB3 = (B)new A() {ANo = 5};
+        Console.WriteLine(objB3.BNo + " " + objA3.ANo);*/
     }
 }
 

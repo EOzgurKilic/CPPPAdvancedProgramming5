@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CPPPAdvancedProgramming5")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+2e7808ebb2d01df05b0bfad0b739f10fdb466bdc")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+97b41c096745dbeb0cb63dba697296addaf90546")]
 [assembly: System.Reflection.AssemblyProductAttribute("CPPPAdvancedProgramming5")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CPPPAdvancedProgramming5")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
